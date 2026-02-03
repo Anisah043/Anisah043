@@ -1,9 +1,9 @@
 **Who am I?**
 <h1 align=center><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%teal&size=23&center=true&vCenter=true&lines=Hasina+RABOANARY"></h1>
 
-# 👋 Salama, Bonjour, Hello! I'm Hasina RABOANARY
+# 👋 Salama
 
-💻 **Full-Stack & Mobile Developer** with hands-on experience building fintech and B2B applications from concept to production.
+💻 I am a **Full-Stack & Mobile Developer** with hands-on experience building fintech and B2B applications from concept to production.
 
 ## 🚀 What I Do
 
