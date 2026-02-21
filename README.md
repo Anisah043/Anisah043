@@ -12,13 +12,6 @@
 -   💳 I've worked on **fintech solutions** including e-wallet account management, intelligent pricing engines, automated billing systems, and transaction traceability
 -   🎨 While front-end devs paint the canvas, I architect the backend systems that make everything work seamlessly (but don't tell them that! 🤫😄)
 
-## ⌨️ Contributions: 
-
-<p align="center"> 
-     <img src="https://github-readme-streak-stats.herokuapp.com?user=Anisah043" alt="GitHub Streak Stats"/>
-    <br>
-</p>
-
 ## 🎓 Currently Learning
 
 📚 Pursuing a **Master's in AI & Machine Learning** at the University of Technology, Mauritius  
